@@ -1,4 +1,4 @@
-# instagram-Posts-Download
+# Instagram-Posts-Download
 ### Download Photos From Instagram Account Posts By Entering The Account Name Using Python And Selenium.
 
 
@@ -8,3 +8,5 @@
 
 ![posts](https://github.com/AbdullahELyamany/instagram-Posts-Download/assets/124623013/3ca0b4ab-82ef-483f-9ac4-2b5276c47df0)
 
+
+![display2](https://github.com/AbdullahELyamany/instagram-Posts-Download/assets/124623013/6e096d66-b7ad-4169-9043-f7c4a17fb919)
